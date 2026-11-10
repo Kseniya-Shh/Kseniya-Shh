@@ -1,5 +1,4 @@
-## Hi there, I'm Kseniya.
-I'm system analyst
+## Hi there, I'm Kseniya, I'm a systems analyst 👋
 
 - 🔭 I’m looking for a job :)
 - 🌱 I’m currently learning more and more about SQL
